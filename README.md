@@ -38,7 +38,8 @@ Stay tuned! I'm currently working on:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krushna%20Bergad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krushna-bergad-720753217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krushna%20Bergad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krushna-bergad-720753217)  
+[![Gmail](https://img.shields.io/badge/Email-krushnabergad%40gmail.com-red?style=flat-square&logo=gmail)](mailto:krushnabergad@gmail.com)
 
 ---
 
