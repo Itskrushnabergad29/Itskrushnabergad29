@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krushna Bergad!
 
-🎓 3rd Year Engineering Student – Artificial Intelligence & Data Science  
+🎓 4th Year Engineering Student – Artificial Intelligence & Data Science  
 🏫 Indira College of Engineering and Management, SPPU (Savitribai Phule Pune University)
 
 ---
